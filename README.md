@@ -17,12 +17,6 @@ Uses a DFA-based regex engine (`RegexOptions.NonBacktracking`) with Luhn validat
 | `PciScanner.Scanners` | Scanning raw strings |
 | `PciScanner.Attributes` | Validating object models |
 
-## Installation
-
-```bash
-dotnet add package PciScanner
-```
-
 ## Usage
 
 ### Raw string scanning
