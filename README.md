@@ -69,7 +69,3 @@ bool isValid = Validator.TryValidateObject(request, new ValidationContext(reques
 // isValid = false
 // results[0].ErrorMessage = "PAN detected in: Description"
 ```
-
-## Contributing
-
-See [`docs/luhn.md`](docs/luhn.md) for the Luhn algorithm specification — required reading for any new language implementation.
