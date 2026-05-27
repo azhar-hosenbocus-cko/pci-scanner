@@ -60,6 +60,6 @@ var request = new PaymentRequest
 
 var results = new List<ValidationResult>();
 bool isValid = Validator.TryValidateObject(request, new ValidationContext(request), results, validateAllProperties: true);
-// isValid = false
-// results[0].ErrorMessage = "PAN detected in: Description"
+// isValid             => false
+// results[0].ErrorMessage => "PAN detected in: Description"
 ```
