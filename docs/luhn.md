@@ -1,3 +1,5 @@
+> **For contributors only.** This is an internal algorithm reference. If you are consuming the library, see the [README](../README.md).
+
 # Luhn Algorithm
 
 The Luhn algorithm is a checksum formula used to validate card numbers. Every real PAN passes it; random digit sequences almost never do.
