@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.suo
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# OS
+.DS_Store
+Thumbs.db

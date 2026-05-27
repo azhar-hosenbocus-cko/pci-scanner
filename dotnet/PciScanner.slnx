@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PciScanner/PciScanner.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PciScanner.Benchmarks/PciScanner.Benchmarks.csproj" />
+    <Project Path="tests/PciScanner.Tests/PciScanner.Tests.csproj" />
+  </Folder>
+</Solution>
